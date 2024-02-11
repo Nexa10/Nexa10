@@ -36,6 +36,6 @@ Aspiring software engineer passionate about creativity and problem-solving.
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a> 
   <p>OR</p>
-  <a href="mailto:aududennis2016@gmail.com">aududennis2016@gmail.com</a>
+  <a href="mailto:aududennis2016@gmail.com">📨: aududennis2016@gmail.com</a>
 </p>
 
