@@ -1,14 +1,19 @@
 <h1 align="center">Hi there 👋</h1> 
 <p align="center">
-  I'm Dennis, a third-year software engineering student 👨🏾‍💻 at Seneca Polytechnic, CA. 
+  I'm Dennis Audu, a third-year software engineering student 👨🏾‍💻 at Seneca Polytechnic, CA. 
 </p>
 
 <br>
-<h2 align="left">About Me 💬</h2>
+<h2 align="left" >About Me 💬</h2>
 <div align="left">
 I'm a music producer and football enthusiast who loves learning and exploring new things. 
 Aspiring software engineer passionate about creativity and problem-solving.
-  
+
+<h3>Interests: </h3>
+<li>IoT</li>
+<li>UI Design & Frontend Development</li>
+<li>Machine Learning</li>
+<li>Arsenal FC and Messi 😉</li>
 </div>
 
 <h2 align="left">Skills 🤹🏾</h2>
