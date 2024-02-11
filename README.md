@@ -32,7 +32,7 @@ Aspiring software engineer passionate about creativity and problem-solving.
 
 ## Connect with me 📫 
 <p align="left">
-  <a href="https://linkedin.com/in/dennis-audu-8450191a2" target="_blank">
+  <a href="https://linkedin.com/in/dennis-audu-8450191a2" target='_blank'>
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a> 
   <p>OR</p>
