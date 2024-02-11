@@ -3,14 +3,33 @@
   I'm Dennis, a third-year software engineering student 👨🏾‍💻 at Seneca Polytechnic, CA. 
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src=""/><br>
-    <img src="https://skillicons.dev/icons?i=c,python,javascript,mysql"/><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,express,redis,tailwind,git,r" /><br>
+
+<h2 align="left">About Me 💬</h2>
+<div align="left">
+    
   
 </div>
+
+<h2 align="left">Skills</h2>
+<div align="left">
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript"/><br>
+    <h3>Technology & Tools⚒️:</h3>
+    <img src="https://skillicons.dev/icons?i=nodejs,react,redux,express,redis,tailwind,git,r" /><br>
+</div>
+
+<h2 align="left">Projects</h2>
+<div align="left">
+    <a ref="#">SendTurtle</a>
+   
+</div>
+
+## 📫 How to reach me: ...
+<p align="left">
+  <a href="www.linkedin.com/in/dennis-audu-8450191a2">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
 
 <!--
 **Nexa10/Nexa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
