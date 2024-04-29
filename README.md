@@ -26,8 +26,24 @@ Aspiring software engineer passionate about creativity and problem-solving.
 
 <h2 align="left">Projects  🔭</h2>
 <div align="left">
-    <h3><a href="#">SendTurtle</a></h3>
-    <h3><a href="#">SenecaEngsog</a></h3>
+    <ul>
+      <li>
+        <h3><a href="#">SendTurtle 🐢</a></h3>
+        <p>Multiplatform File Transfer Web App </p>
+      </li>
+      <li>
+        <h3><a href="#">SenecaEngsog 🌐</a></h3>
+        <p>An Organizational Website for Seneca Engineering Students' Society </p>
+      </li>
+      <li>
+        <h3><a href="https://github.com/Nexa10/ride_fare_regression">Price Prediction Model 🤖</a></h3>
+        <p>Regression Model </p>
+      </li>
+      <li>
+        <h3><a href="https://github.com/Nexa10/Autonomous-Driving-Car">Autonomous Car 🚘</a></h3>
+        <p>Autonomous vehicle technology using Computer Vision (CV) in small robotics applications</p>
+      </li>
+    </ul>
 </div>
 
 ## Connect with me 📫 
