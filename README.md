@@ -19,7 +19,7 @@
 - Bachelor of Software Engineering, **Seneca Polytechnic** (2025)
 - Outside of code: music production and football (Arsenal FC)
 
-## 💼 Experience highlights
+## Experience highlights
 
 | Role | What I delivered |
 |---|---|
@@ -28,7 +28,7 @@
 | **QA Automation Engineer** · Intact (2025–2026) | Pytest + Playwright frameworks and Jenkins quality gates that cut regression cycle time **60%** |
 | **Backend Developer Intern** · Human City (2025) | Python REST APIs on MongoDB with sub-100ms responses and concurrency-safe endpoints |
 
-## 🔭 Featured projects
+## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
