@@ -11,13 +11,13 @@
 
 ---
 
-## 💬 About me
+## About me
 
-- 🛠️ **3+ years** of contract, co-op and freelance experience building web applications, APIs and automation
-- ⚙️ Day to day: **Python, PostgreSQL, REST APIs, TypeScript, C# / .NET**, Docker and CI/CD
-- 🤖 Freelance **AI Engineer**: LLM apps, RAG pipelines and agentic workflows on Claude and OpenAI
-- 🎓 Bachelor of Software Engineering, **Seneca Polytechnic** (2025)
-- 🎧 Outside of code: music production and football (Arsenal FC)
+- **3+ years** of contract, co-op and freelance experience building web applications, APIs and automation
+- Day to day: **Python, PostgreSQL, REST APIs, TypeScript, C# / .NET**, Docker and CI/CD
+- Freelance **AI Engineer**: LLM apps, RAG pipelines and agentic workflows on Claude and OpenAI
+- Bachelor of Software Engineering, **Seneca Polytechnic** (2025)
+- Outside of code: music production and football (Arsenal FC)
 
 ## 💼 Experience highlights
 
@@ -33,12 +33,12 @@
 | Project | What it does | Stack |
 |---|---|---|
 | ♟️ **ChessVision** | Real-time AR chess coach: reads the board from smart-glasses video (95%+ accuracy) and overlays Stockfish moves at 30 FPS | Python, OpenCV, YOLOv8, ONNX, WebRTC, Electron |
-| 📚 **QuizQuery** | RAG platform that answers questions and builds quizzes from your documents, with citations; semantic caching cut token spend 40% | Next.js, FastAPI, PostgreSQL / pgvector, Celery, Redis, Kubernetes |
-| 💳 **Menaceble** | Contribution platform with real-time balances and Stripe payments using idempotent, transactional-outbox reconciliation | React, Node.js / Express, PostgreSQL, Stripe, WebSockets |
-| 📊 **FleetPulse** | Operations analytics platform with an AI assistant that answers questions over SQL through a custom MCP server | ASP.NET Core 8, EF Core, SQL Server, Next.js |
-| 🏠 **HomeLab NAS** | Self-hosted 3-node Raspberry Pi Kubernetes cluster with GitOps, ZFS backups, observability and AI media tagging | k3s, Argo CD, Ansible, Prometheus, Grafana |
+| **QuizQuery** | RAG platform that answers questions and builds quizzes from your documents, with citations; semantic caching cut token spend 40% | Next.js, FastAPI, PostgreSQL / pgvector, Celery, Redis, Kubernetes |
+| **Menaceble** | Contribution platform with real-time balances and Stripe payments using idempotent, transactional-outbox reconciliation | React, Node.js / Express, PostgreSQL, Stripe, WebSockets |
+| **FleetPulse** | Operations analytics platform with an AI assistant that answers questions over SQL through a custom MCP server | ASP.NET Core 8, EF Core, SQL Server, Next.js |
+| **HomeLab NAS** | Self-hosted 3-node Raspberry Pi Kubernetes cluster with GitOps, ZFS backups, observability and AI media tagging | k3s, Argo CD, Ansible, Prometheus, Grafana |
 
-## 🧰 Tech stack
+## Tech stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,cs,java&theme=dark" alt="Languages"/><br/>
@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,kubernetes,aws,azure,githubactions,jenkins,git&theme=dark" alt="Data and DevOps"/>
 </p>
 
-## 📜 Certifications
+## Certifications
 
 - Anthropic: **Claude Certified Architect – Professional**
 - **AWS Certified Developer – Associate**
